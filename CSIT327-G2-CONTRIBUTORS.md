@@ -1,5 +1,5 @@
 ## Contributors
 
 - _Add your name here in Task C_
-- Revilleza, Frederick(**@juantojuan**)
-- Dinapo, Alexandreinash(**@alexandreinash**)
+- Revilleza, Frederick (**@juantojuan**)
+- Dinapo, Alexandreinash (**@alexandreinash**)
