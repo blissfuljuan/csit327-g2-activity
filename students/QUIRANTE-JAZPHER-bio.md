@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G2
+- Favorite Language: Java
+- One Git Tip Learned: `git checkout` is quicker way of creating and switching another branch
+- GitHub: @jazpirr
