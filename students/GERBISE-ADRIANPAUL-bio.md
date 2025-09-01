@@ -1,0 +1,6 @@
+- Program: e.g., BSIT
+- Year: 4th Year
+- Section: G2
+- Favorite Language: Lua
+- One Git Tip Learned: Use `git status` often
+- GitHub: @eidoru

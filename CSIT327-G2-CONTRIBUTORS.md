@@ -1,4 +1,4 @@
 ## Contributors
 
-- _Add your name here in Task C_
+- Gerbise, Adrian Paul (**@eidoru**)
 - Revilleza, Frederick (**@juantojuan**)
