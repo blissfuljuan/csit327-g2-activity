@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 2nd Year
+- Section: G2
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` for checking
+- GitHub: @bmgvallo
