@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc24292e-11a7-4678-a0dc-ac480a96f011" name="Changes" comment="docs(readme): add Dayne to contribitors (#1)">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSIT327-G2-CONTRIBUTORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSIT327-G2-CONTRIBUTORS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6e9a72ad-5b08-4876-a0b0-6b45f55c350c" name="Changes" comment="" />
+      <changelist id="dc24292e-11a7-4678-a0dc-ac480a96f011" name="Changes" comment="docs(readme): add Dayne to contribitors (#1)" />
       <created>1756712087436</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1756714268600</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="docs(readme): add Dayne to contribitors (#1)">
+      <created>1756719250515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756719250515</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PabillonDayne Added to the list" />
     <MESSAGE value="Bio(Issue #2) Resovled, and added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bio(Issue #2) Resovled, and added." />
+    <MESSAGE value="docs(readme): add Dayne to contribitors (#1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(readme): add Dayne to contribitors (#1)" />
   </component>
 </project>
