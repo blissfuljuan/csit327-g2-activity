@@ -1,0 +1,6 @@
+- Program: Bachelor of science Information Technology
+- Year: 4th Year
+- Section: G2
+- Favorite Language: Java, C#, C.
+- One Git Tip Learned: Uses 'Dont USE MERGE COMMIT'
+- GitHub: @DaynePabillon 
