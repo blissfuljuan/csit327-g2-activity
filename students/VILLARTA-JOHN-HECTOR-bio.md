@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G2
+- Favorite Language: 
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @hetorydetorydak
