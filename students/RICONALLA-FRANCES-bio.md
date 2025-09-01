@@ -1,0 +1,6 @@
+- Program: e.g., BSIT
+- Year: e.g., 2nd Year
+- Section: e.g., G2
+- Favorite Language: e.g., Java
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @francesanne
