@@ -1,5 +1,5 @@
 - Program: BSIT
-- Year: Third Year
+- Year: 3rd Year
 - Section: G2
 - Favorite Language: Java
 - One Git Tip Learned:Use `git status` often
