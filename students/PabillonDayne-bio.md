@@ -3,4 +3,4 @@
 - Section: G2
 - Favorite Language: Java, C#, C.
 - One Git Tip Learned: Uses 'Dont USE MERGE COMMIT'
-- GitHub: @DaynePabillon 
+- GitHub: @DaynePabillon
