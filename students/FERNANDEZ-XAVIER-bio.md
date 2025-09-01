@@ -1,6 +1,6 @@
 - Program: BSIT
 - Year: 3rd Year
 - Section: G2
-- Favorite Language: English, Java
+- Favorite Language: Java, Japanese
 - One Git Tip Learned: Use 'git status' often
 - GitHub: @Xavier-XAF
