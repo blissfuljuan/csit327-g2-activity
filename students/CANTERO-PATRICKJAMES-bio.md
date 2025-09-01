@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G2
+- Favorite Language: Java, C
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @Myst-fib
