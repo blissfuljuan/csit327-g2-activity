@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G2
+- Favorite Language: Java, C
+- One Git Tip Learned: Use `git status` often
+- GitHub: @earlgeraldesparcia
