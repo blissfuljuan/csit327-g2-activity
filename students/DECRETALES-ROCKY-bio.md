@@ -3,4 +3,4 @@
 - Section: F2
 - Favorite Language: Android Studio
 - One Git Tip Learned:  Use `git status` often
-- GitHub: @gongz024
+- GitHub: @Gongz024
