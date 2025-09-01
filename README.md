@@ -150,5 +150,5 @@ git fetch origin && git merge origin/main
 - **Checks failing (branch name):** Rename branch to start with your **GitHub username**.
 - **Checks failing (username missing):** Ensure `@your-username` appears in both **README (Contributors)** and your **bio** file.
 - **No issue reference:** Amend/add a new commit including `(#1)` or `(#2)`.
--
+
 ---
